@@ -31,7 +31,7 @@ we make use of [rise](https://github.com/damianavila/RISE) to make a presentatio
 - @lantiga:
 	- check and fix part-0 presentation
 	- add notes on the notebooks for white board interventions
-	- eventually add notes for other fies
+	- eventually add notes for other fixes
 - @dnlcrl 
 	- write 1.5-MNIST-intro.ipynb:
 		- introduction of mnist dataset
