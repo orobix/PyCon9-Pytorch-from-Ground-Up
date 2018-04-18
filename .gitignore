@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*.html
+*.pdf
+.DS_Store
+*.pth
+data/
