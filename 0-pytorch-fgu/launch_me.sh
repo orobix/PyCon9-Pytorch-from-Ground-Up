@@ -1,1 +1,0 @@
-jupyter nbconvert pytorch-fgu.ipynb --to slides --post serve
