@@ -7,7 +7,7 @@ This repo contains material for the "PyTorch from Ground Up" Training at [PyCon]
 	$ cd PyCon9-Pytorch-from-Ground-Up
 	$ jupyter notebook
 
-#### Data
+### Data
 
 Download and unzip the "data.zip" file from one of these links, put the unzipped "data" directory in the root folder for the training.  
  - https://bit.ly/2qstREA (DropBox)
@@ -27,7 +27,7 @@ Done. Thank you for your attention!
 	scikit_learn>=0.19.1
 	tqdm>=4.19.4
 
-#### Requirements Installation
+### Requirements Installation
 
 - pytorch, torchvision: follow instruction from [here](http://pytorch.org)
 - pillow: `conda install pillow`if you are using conda OR `pip install Pillow` otherwise
