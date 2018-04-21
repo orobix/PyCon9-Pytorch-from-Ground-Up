@@ -36,4 +36,4 @@ Done. Thank you for your attention!
 ### Useful Links
 
 - PyTorch Documentation: http://pytorch.org/docs/stable/index.html 
-- torchvision: http://pytorch.org/docs/master/torchvision/
+- torchvision Documentation: http://pytorch.org/docs/master/torchvision/
