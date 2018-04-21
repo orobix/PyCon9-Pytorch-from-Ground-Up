@@ -15,7 +15,8 @@
 
 - move to the root folder
 - run:
-	$ jupyter notebook
+	
+	  $ jupyter notebook
 
 
 ### Notes
