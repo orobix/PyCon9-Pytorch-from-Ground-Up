@@ -1,6 +1,6 @@
 # PyCon9: PyTorch from Ground Up
 
-This repo contains material for the "PyTorch from Ground Up" Training at [PyCon](http://pycon.it) Nove.
+This repo contains material for "PyTorch from Ground Up", a training session at [PyCon](http://pycon.it) Nove.
 
 ### How to launch
 
@@ -29,7 +29,14 @@ Done. Thank you for your attention!
 
 ### Requirements Installation
 
-- pytorch, torchvision: follow instruction from [here](http://pytorch.org)
-- pillow: `conda install pillow` if you are using conda OR `pip install Pillow` otherwise
+- `pytorch`, `torchvision`: follow instruction from [here](http://pytorch.org)
+- `pillow`: `conda install pillow` if you are using conda OR `pip install Pillow` otherwise
 - others: `conda install <package>`if you are using conda OR `pip install <package>` otherwise
+
+### Useful Links
+
+- PyTorch Documentation: http://pytorch.org/docs/stable/index.html 
+- torchvision: http://pytorch.org/docs/master/torchvision/
+- neural networks introduction: http://neuralnetworksanddeeplearning.com
+
 
