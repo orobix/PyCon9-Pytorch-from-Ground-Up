@@ -30,6 +30,6 @@ Done. Thank you for your attention!
 ### Requirements Installation
 
 - pytorch, torchvision: follow instruction from [here](http://pytorch.org)
-- pillow: `conda install pillow`if you are using conda OR `pip install Pillow` otherwise
+- pillow: `conda install pillow` if you are using conda OR `pip install Pillow` otherwise
 - others: `conda install <package>`if you are using conda OR `pip install <package>` otherwise
 
