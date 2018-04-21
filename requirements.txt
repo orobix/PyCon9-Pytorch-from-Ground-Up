@@ -1,0 +1,7 @@
+matplotlib>=2.1.0
+torch==0.3.0.post4
+torchvision==0.2.0
+numpy>=1.13.3
+pillow
+scikit_learn>=0.19.1
+tqdm>=4.19.4
