@@ -37,6 +37,3 @@ Done. Thank you for your attention!
 
 - PyTorch Documentation: http://pytorch.org/docs/stable/index.html 
 - torchvision: http://pytorch.org/docs/master/torchvision/
-- neural networks introduction: http://neuralnetworksanddeeplearning.com
-
-
